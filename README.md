@@ -1,7 +1,3 @@
-Here’s an updated README file with the new content integrated:
-
----
-
 # British Airways Review Analysis
 
 ### Project Overview
